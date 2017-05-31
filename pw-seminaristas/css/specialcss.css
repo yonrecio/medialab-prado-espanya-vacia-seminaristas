@@ -1,0 +1,42 @@
+<!-- SpecialCSS -->
+
+
+<!-- Header -->
+
+
+
+			a:link   
+			{  
+			text-decoration:none;   
+			}
+			
+p .container{
+		color: #000000;}
+
+h1 .container{
+
+			h1   color: #363738;
+				 font-size: 89px; 
+				 }
+		
+h1 .article  {	
+		    font-family: "Madrid-Light", Georgia, "Times New Roman", Times, serif;
+			font-size: 48px;
+			line-height: 1.7;
+			color: #4a4a4a;
+			letter-spacing: 50px;}
+		
+h1 .article {
+				color: #363738;
+				font-size: 1.5rem;
+				text-align: center}
+				
+		h3 {
+				
+				
+		.p {
+		    font-family: "Madrid-Light", Georgia, "Times New Roman", Times, serif;
+			font-size: 1.5rem;
+			line-height: 1.7;
+			color: #4a4a4a;
+			letter-spacing: 0.063rem;}
